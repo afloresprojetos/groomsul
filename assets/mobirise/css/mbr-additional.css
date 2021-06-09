@@ -1487,6 +1487,9 @@ section.lazy-placeholder:after {
   .mbr-figure {
     padding: 0px!important;
   }
+  .p-margin{
+    margin-top: 30px;
+  }
 }
 
 @media (min-width: 767px) {
