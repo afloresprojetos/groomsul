@@ -1153,8 +1153,19 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-szSmVXR1WQ {
+.cid-sAN1siPdHQ {
   padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sAN1siPdHQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-sAN1siPdHQ H2 {
+  color: #7c1b61;
+}
+.cid-szSmVXR1WQ {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
