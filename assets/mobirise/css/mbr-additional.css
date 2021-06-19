@@ -4521,13 +4521,22 @@ section.lazy-placeholder:after {
   .p-margin{
     margin-top: 30px; 
   }
+  .juiz-desk{
+    display: none;
+  }
 }
 
 @media (min-width: 767px) {
   .logo-mobile{
     display: none;
   }
+  .juiz-mobile{
+    display: none;
+  }
 }
 .bannerr{
       padding-top: 77px;
 }
+.juiz-mobile{
+    text-align: center;
+  }
